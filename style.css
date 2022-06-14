@@ -1,0 +1,27 @@
+body{
+	background-color: #FFE6EB;
+}
+/*  Body is the entire design for my webpage    */
+
+
+h1{
+	
+	font-family: 'Courgette', cursive;
+}
+
+/* The  heading font color should always match the companys' logo */
+
+
+/*    */
+
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: 5px;
+	width: 10%;
+}
+
+img {
+  border-radius: 50%;
+}
